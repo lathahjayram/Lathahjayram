@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **testNG Framework, Appium, API Automation testing**
 
-- 👯 I’m looking to collaborate on **Java and Selenium**
+- 👯 I’m looking to collaborate on **Manual testing, Java and Selenium**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lathahjayram](https://github.com/lathahjayram)
 
