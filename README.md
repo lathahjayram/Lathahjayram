@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lathahjayram" alt="lathahjayram" /></a> </p>
 
-- 🔭 I’m currently working on **Java and Selenium**
+- 🔭 I’m currently working on **Java, Selenium and Manual testing**
 
 - 🌱 I’m currently learning **testNG Framework, Appium, API Automation testing**
 
 - 👯 I’m looking to collaborate on **Manual testing, Java and Selenium**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lathahjayram](https://github.com/lathahjayram)
+- 👨‍💻 All of my projects are available at [[https://github.com/lathahjayram](https://github.com/lathahjayram)](https://github.com/lathahjayram?tab=repositories)
 
 - 💬 Ask me about **Java, Selenium, Manual testing**
 
