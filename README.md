@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Java, Selenium and Manual testing**
 
-- 🌱 I’m currently learning **testNG Framework, Appium, API Automation testing**
+- 🌱 I’m currently learning **C#**
 
 - 👯 I’m looking to collaborate on **Manual testing, Java and Selenium**
 
